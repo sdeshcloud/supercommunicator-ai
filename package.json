@@ -1,0 +1,7 @@
+{
+  "name": "supercommunicator-ai",
+  "version": "2.0.0",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
